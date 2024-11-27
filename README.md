@@ -5,7 +5,7 @@
 I'm a passionate software developer with a strong foundation in **Python** development, currently expanding my expertise in **DevOps** to create efficient and scalable software solutions. My goal is to bridge the gap between development and operations, and I'm focused on delivering seamless, high-quality applications through continuous improvement.
 
 ### 🚀 What I Do
-- **Software Development**: Specializing in **Python**, **SQL**, and **Object-Oriented Programming (OOP)**.
+- **Software Development**: Specializing in **Python**, **SQL**, **Git**, **Elasticsearch & Kibana** and **Object-Oriented Programming (OOP)**.
 - **DevOps Practices**: Exploring **cloud infrastructure**, **containerization** with **Docker**, **Kubernetes**, and **CI/CD** pipelines to streamline software delivery.
 - **Automation**: Implementing automation for faster, more reliable development and deployment processes.
 
@@ -16,6 +16,7 @@ I'm a passionate software developer with a strong foundation in **Python** devel
 - **Docker & Kubernetes** 🐳
 - **CI/CD** 🚀
 - **Git** 🧑‍💻
+- **Linux** 🐧
 - **Cloud Infrastructure** ☁️
 
 ### ⚡ Fun Facts:
